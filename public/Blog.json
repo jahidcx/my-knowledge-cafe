@@ -27,7 +27,7 @@
       "author_img": "https://i.ibb.co/nbhXgt5/jj1.jpg",
       "posted_date": "2024-03-13",
       "reading_time": 60,
-      "hashtags": ["romance", "time-travel", "destiny"]
+      "hashtags": ["romance", "time_travel", "destiny"]
     },
     {
       "id": "456789",
@@ -47,7 +47,7 @@
       "author_img": "https://i.ibb.co/nbhXgt5/jj1.jpg",
       "posted_date": "2024-03-11",
       "reading_time": 40,
-      "hashtags": ["dark-fantasy", "werewolves", "betrayal"]
+      "hashtags": ["dark_fantasy", "werewolves", "betrayal"]
     },
     {
       "id": "678901",
@@ -57,7 +57,7 @@
       "author_img": "https://i.ibb.co/nbhXgt5/jj1.jpg",
       "posted_date": "2024-03-10",
       "reading_time": 55,
-      "hashtags": ["science-fiction", "space-exploration", "mystery"]
+      "hashtags": ["science_fiction", "space_exploration", "mystery"]
     }
     
   ]
